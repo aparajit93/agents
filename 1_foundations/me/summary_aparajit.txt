@@ -1,0 +1,1 @@
+My name is Aparajit Gnanasekaran. I am a ML/AI engineer working across academia, startup and industry. I have built tools to enhance seismic imaging, RAG document retrieval and object detection for industrial documents.
